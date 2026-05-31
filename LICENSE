@@ -1,3 +1,15 @@
+/**
+ * @fileoverview Descripción breve de lo que hace este script.
+ * @version 1.0.0
+ * @author Juan Valentín García Espinoza
+ * @copyright © 2026 Juan Valentín García Espinoza. Todos los derechos reservados.
+ */
+
+let x = 5; // Tipo Número
+let c = "5"; // Tipo Cadena de texto (String)
+
+console.log(x != c); // false
+console.log(x !== c); // true
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
