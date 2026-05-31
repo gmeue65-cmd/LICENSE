@@ -23,3 +23,5 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 ---
 Desarrollado por [Juan Valentín García Espinoza](https://github.com)
+
+## Licencia - Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
