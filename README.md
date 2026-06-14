@@ -1,6 +1,22 @@
-# Euniprincez Digital v2026.1-MRP.pk 🛡️
+## 🛡️ SBE-GAEJ2026: Sistema de Bio-Defensa Electrónica "ESTORNUDO"
 
-### Sistema de Gestión de Seguridad (SGS), Auditoría y API Bridge
+Arquitectura avanzada de ciberseguridad basada en principios de biomímesis informática, diseñada para funcionar como un sistema inmunológico digital activo en entornos Linux[span_17](start_span)[span_17](end_span).
+
+### ⚖️ Blindaje de Autor e Integridad Legal
+* **Autor Principal:** Juan Valentin Garcia Espinoza[span_18](start_span)[span_18](end_span)
+* **Identificador de Autoría (Estado):** GAEJ940310HSPRSN02[span_19](start_span)[span_19](end_span)
+* **Licencia:** Licencia Propietaria de Uso Restringido. Queda estrictamente prohibida la ingeniería inversa, alteración, réplica o descompilación de los algoritmos de confinamiento bajo las cláusulas de protección del proyecto[span_20](start_span)[span_20](end_span).
+
+### ⚡ Características Principales
+1. **Detección por Discrepancia:** Evaluación constante de la pureza del código fuente mediante análisis de *hash* y fase de señal, eliminando falsos positivos[span_21](start_span)[span_21](end_span).
+2. **Aislamiento Selectivo (Mucosa Digital):** Encapsulación en *Sandbox* en milisegundos sin interrumpir las operaciones legítimas del negocio[span_22](start_span)[span_22](end_span).
+3. **Asfixia Digital ($\Delta\Sigma$):** Colapso matemático del módulo de la señal ($r \to 0$) para remover la disponibilidad de recursos de procesamiento ante agentes hostiles[span_23](start_span)[span_23](end_span).
+4. **Memoria Celular:** Generación dinámica de reglas de firewall de forma autónoma con cada intento de intrusión mitigado[span_24](start_span)[span_24](end_span).
+
+*Euniprincez Digital v2026 MRP.pk 🛡️
+
+
+**Sistema de Gestión de Seguridad (SGS), Auditoría y API Bridge
 
 ---
 
